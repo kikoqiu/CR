@@ -106,7 +106,7 @@ This chapter describes the macroscopic physical laws that necessarily emerge fro
 #### **Theorem 3 (The Nature of Dark Energy is the Maintenance Cost of Spacetime Structure)**
 *   **Discourse:** Dark energy is the direct macroscopic manifestation of the fundamental activity of the universe's "operating system" continuously generating "Time Shares" L_t (Axiom 5a). Its energy density corresponds to the L_t inventory level in the vacuum background, L_t_∞.
 
-#### **Theorem 4 (Origin of Light, Matter, and Fields)**
+#### **Theorem 4 (Origin of Light, Matter, Fields and the Universe)**
 *   **Discourse:** Light, matter, and fields are the effects of fundamental relationships on the resource field.
 *   **See Also:** Appendix H: The Computational Origin of Matter, Fields, and Light; Appendix I: On the Computational Origin and Ratios of Mass Hierarchy; Appendix J: A Cosmic Evolution Model - A Self-Organizing Ripple Driven by Computational Effects.
 
