@@ -37,7 +37,7 @@ There exists a globally synchronized system clock that drives the computation of
 In this theoretical framework, we define the fundamental particles of the Standard Model as the minimum functional units for computation by the universe's "operating system." Each particle possesses a fixed type label L, an evolution time t, and a unique, non-spontaneously changing identity key K, denoted as A{L,t,K}. These attributes affect the particle's interaction with other particles, serving as core parameters for the computational rule F, such that Outcome = F(A, B, ..., R(τ)) directly affects A's internal attributes {L,t,K} and its external attributes.
 
 *   **3.1 Relativity of Particle Definition:** This definition is our simplification of the computational universe. Because the division between internal and external is relative, a particle (a relationship) is actually a collection of smaller internal relationships. However, to study this complex pattern in a layered manner, we give a label to a fundamental particle, which is to name the pattern it presents. Since a particle (pattern) is always at a forward-evolving point in time, we define this as t. Decay is the dissolution of the internal relationships of a particle (relational pattern), becoming several independent patterns and energy. This process is influenced by the temporal mechanism we discuss.
-*   **3.2 Definition of Particle Complexity:** Complexity is the definition of a particle's internal relationships, i.e., its mass. Its ultimate origin lies in topological structural complexity, with its value defined on the non-negative integers. However, in the main body of our paper, we will continue to use SI units.
+*   **3.2 Definition of Particle Complexity:** Complexity is the definition of a particle's internal relationships, i.e., its mass. Its ultimate origin lies in topological structural complexity, namely, the topological structure of the vortex as described in Appendix H, with its value defined on the non-negative integers. However, in the main body of our paper, we will continue to use SI units.
 
 #### **Axiom 4 (Principle of Relative Reality Definition)**
 The mathematical form of the physical laws of the universe must ensure that any division between a system's "internal reality" and "external reality" is self-consistent. This is a profound principle regarding "perspective invariance." It demands that, regardless of which state of motion we choose as the "internal" reference frame, the mathematical laws describing more complex states of motion from this frame must remain formally identical to the laws derived from the most fundamental state.
@@ -108,7 +108,7 @@ This chapter describes the macroscopic physical laws that necessarily emerge fro
 
 #### **Theorem 4 (Origin of Light, Matter, and Fields)**
 *   **Discourse:** Light, matter, and fields are the effects of fundamental relationships on the resource field.
-*   **See Also:** Appendix H: A Conception of the Microscopic Computational Structure of Matter and Fields; Appendix I: On the Computational Origin and Ratios of Mass Hierarchy.
+*   **See Also:** Appendix H: The Computational Origin of Matter, Fields, and Light; Appendix I: On the Computational Origin and Ratios of Mass Hierarchy; Appendix J: A Cosmic Evolution Model - A Self-Organizing Ripple Driven by Computational Effects.
 
 #### **Theorem 5 (Emergence of Uncertainty and its Relation to Computational Complexity)**
 *   **Discourse:** Starting from the core dynamical law of this theory—**Theorem 0 (E² = (m₀c²)² + (pc)²) **—it is possible to logically and rigorously derive a precise, inverse mathematical relationship between a particle's intrinsic uncertainty (Δx, Δp) and its total computational complexity Γ.
@@ -316,42 +316,69 @@ This chapter describes the macroscopic physical laws that necessarily emerge fro
     *   **Contextual:** The measurement outcome depends not only on the hidden variable S but also on the **"context"** of the measurement, i.e., the setting angle a of the measuring apparatus.
     *   **Non-locality:** The non-locality of the theory is embodied in Axiom 0 itself—the existence of that globally shared, instantaneously synchronized R(τ).
 
-#### **Appendix H: A Conception of the Microscopic Computational Structure of Matter and Fields**
 
-This appendix aims to provide a conceptual, logically self-consistent computational structure model for the hierarchy of forces, the electromagnetic field, the photon, and fundamental particles (electrons, protons), based on the first principles of "Computational Realism."
+### **Appendix H: The Computational Origin of Matter, Fields, and Light**
 
-*   **H.1 The Ontological Hierarchy of Forces: The Second-Order Nature of Gravity**
-    *   **Gravity: A Fundamentally "Second-Order" Reality**
-        *   **Level of Action:** System-level / Architecture-level. Gravity is the manifestation of the macroscopic scheduling law for the universe's computational resources.
-        *   **Causal Chain:** Particle A consumes L_t resource -> The L_t field develops a gradient -> Particle B responds to this altered background field.
-        *   **Physical Picture:** Gravity is not particle A acting directly on particle B, but an indirect influence by changing the computational "stage" they both share.
-    *   **Electromagnetic and Nuclear Forces: Fundamentally "First-Order" Realities**
-        *   **Level of Action:** Application-level / Protocol-level. These forces are the direct execution of the underlying computational rule F on the basic attributes of particles.
-        *   **Causal Chain:** The attributes K_A of particle A, via rule F, directly produce a computational effect on particle B.
-        *   **Physical Picture:** This is a "point-to-point" interaction, handled by a fixed "communication protocol."
-*   **H.2 The Electromagnetic Field: A Static "Computational Stress" Field**
-    *   **H.2.1 Electric Field (E-Field):** The radial gradient part of the "computational stress." A static vector field rendered in the surrounding nodes by an electric charge (a "source/sink" marker).
-    *   **H.2.2 Magnetic Field (B-Field):** The curl part of the "computational stress." A static "vortex"-like stress field rendered by spin (an intrinsic "direction of circulation").
-*   **H.3 The Photon: A Dynamic "Energy Wave Packet"**
-    A photon is a self-consistent, self-propagating energy wave packet composed of orthogonal "computational stresses." It is a real particle that is "decoupled" and propagates when the static stress field around an accelerating charged particle changes.
-*   **H.4 Global Interaction of Electrons and Protons**
-    They follow the "first-order" electromagnetic field rules. Each renders a "computational stress field" and moves in the direction that lowers the total "computational stress" of the system, according to rule F.
-*   **H.5 Internal Computational Structure of Electrons and Protons**
-    *   **H.5.1 Internal Structure of the Electron (K_e): The Minimum Stable Pattern**
-        *   **Essence:** The simplest topologically self-consistent computational loop, possessing intrinsic chirality and phase.
-        *   **Origin of Mass (m_e):** The structural complexity of the "topologically self-consistent loop."
-        *   **Origin of Charge (-e):** The inherent "chirality" or "asymmetry" of the loop pattern.
-        *   **Origin of Spin (s):** The projection in three-dimensional space of the intrinsic, periodic "phase" of the loop process.
-    *   **H.5.2 Internal Structure of the Proton (K_P): A Second-Order Stable Pattern**
-        *   **Essence:** A dynamically stable composite pattern of "three-body shared computation," composed of three "incomplete patterns" (quarks).
-        *   **Quarks as "Incomplete Patterns":** Possess "open computational interfaces" (color charge) that cannot self-neutralize.
-        *   **Origin of Proton Stability:** The "open interfaces" of the u-u-d quark patterns form a closed "grand loop of shared computation," which is "color-neutral" externally.
-        *   **Origin of Proton Charge (+e):** The net algebraic sum of the "asymmetries" of the three internal quark patterns: (+2/3) + (+2/3) + (-1/3) = +1.
+**H.1 Introduction: The Monistic Ontological Foundation**
+
+This appendix aims to provide a unified and mechanistically explicit physical model for matter particles, static fields, propagating bosons (photons), and their interactions, based on the core axioms of "Computational Realism." The ontological foundation of this theory is monistic: the only fundamental entity that exists in the universe is a ubiquitous **computational resource field** (referred to as the "vacuum" in its ground state). All physical phenomena we observe are merely different dynamic manifestations of this field itself.
+
+**H.2 Matter Particles: Stable, Localized Topological Vortices of the Field Itself**
+
+*   **H.2.1 Definition**: A fundamental matter particle (such as an electron or a quark) **is not** an independent entity existing *in* the field, but **is** a **specific, localized, self-sustaining dynamic excitation pattern of the computational resource field itself, possessing a stable topological structure and intrinsic chirality**. In short, **a particle is a vortex of the field**.
+
+*   **H.2.2 Origin of Mass**: A smooth field with a constant potential (the vacuum) is the lowest energy state. To maintain a localized "vortex form," the field must continuously consume computational resources to resist the tendency to return to the ground state. This **rate of computational resource consumption necessary to maintain a stable vortex form** manifests macroscopically as the particle's **rest mass (m₀)**.
+
+*   **H.2.3 Chirality and Antiparticles**: The "direction of rotation" (i.e., chirality) of a vortex is a fundamental attribute. A "clockwise" rotating vortex is defined as a **matter particle**, and its perfect topological mirror image—a "counter-clockwise" rotating vortex—is defined as its **antimatter particle**.
+
+**H.3 The Ontological Hierarchy of Force: Unification of Static and Dynamic Fields**
+
+The "force" we observe originates from the influence that these "field vortices" exert on their surrounding field. This influence is divided into two levels:
+
+#### **H.3.1 Static Fields: The "Static Wake" of a Vortex's Existence**
+
+The existence of a stable field vortex necessarily compels the surrounding, previously quiescent field to adopt a **static, long-range deformation**. This "static field deformation," supported by the vortex core and extending outwards while decaying, is the **static computational stress field**. It is not "produced" by the vortex; rather, it is an inseparable component of the vortex as a physical entity.
+
+*   **H.3.1.1 Electric Field (E-Field): Originating from the Vortex's "Breathing"**
+    *   **Mechanism**: If a vortex's topological structure causes its resource exchange with the vacuum to exhibit a net "source" (emission) or "sink" (absorption) characteristic, this isotropic resource flow will form a stable **radial gradient** in the surrounding field.
+    *   **Definition**: **The electrostatic field is the static gradient field that describes the "source/sink" property of a field vortex.** The sign of its "source/sink" marker (positive/negative) is what we call **electric charge**.
+
+*   **H.3.1.2 Magnetic Field (B-Field): Originating from the Vortex's "Drag"**
+    *   **Mechanism**: Since a vortex is by definition a dynamic process with an intrinsic "direction of rotation" (chirality), it must "drag" the surrounding field, forming a minute, static "vortex-like" deformation.
+    *   **Definition**: **The static magnetic field is the static curl field that describes the "chiral rotation" property of a field vortex.** The direction of its axis of rotation, which is related to the particle's spin, is what we call the **magnetic dipole moment**.
+
+#### **H.3.2 Dynamic Field (Photon): The "Decoupled Ripple" of a Vortex's Change**
+
+*   **H.3.2.1 Definition**: **A photon is a dynamic, self-propagating energy wave packet of the computational resource field itself, but one that lacks a stable topological structure (a ripple of the field)**. Because it has no stable topological core to maintain, its rest mass is zero.
+
+*   **H.3.2.2 Emergence Mechanism (Acceleration)**: When a charged particle (a field vortex) is **accelerated**, its extensive "static wake" (the stress field) cannot instantaneously keep up with the core's rapid change. This lag and change cause a portion of the stress field to **"break off and decouple"** from the source vortex, forming an independent energy packet supported by mutually sustaining, orthogonal changes in the electric and magnetic fields, which then propagates through the field at the ultimate speed. This is the radiated **real photon**.
+
+**H.4 The Hierarchical Structure of Particle Topology and Composite Particles**
+
+*   **H.4.1 First-Order Vortices (Fundamental Particles)**: The fundamental fermions of the Standard Model, such as electrons and quarks, are defined as the most basic, indivisible **first-order stable topological vortices**. Their topological complexity (both structural and dynamical) determines their mass and generation.
+
+*   **H.4.2 Second-Order Vortices (Composite Particles/Hadrons)**:
+    *   **Definition**: A composite particle (like a proton or neutron) is a **dynamically stable second-order vortex system** composed of multiple first-order vortices (quarks) bound by the strong nuclear force (a more localized and intense computational stress)—in essence, a **"vortex of vortices."**
+    *   **Source of Stability**: The extreme stability of protons and neutrons originates from the fact that their internal quark vortices are **co-chiral**. Their "rotations" can enter a harmonious, constructive state of **"resonance locking,"** allowing the entire second-order system to exist for long periods as a single, self-consistent entity.
+    *   **Source of Mass**: The mass of a proton is far greater than the sum of the masses of its constituent quarks because the primary contribution to its mass comes from the immense computational cost required to maintain the extremely violent **second-order vortex dynamics** of the quark-gluon field system.
+
+**H.5 Annihilation: The Topological Conflict and Dynamic Fate of Hetero-chiral Vortices**
+
+*   **H.5.1 Mesons: Unstable Second-Order Vortices**: A meson (composed of a quark and an antiquark) is a second-order system constructed from **hetero-chiral** (opposite chirality) first-order vortices.
+
+*   **H.5.2 Annihilation Mechanism**:
+    1.  **Topological Conflict Interface**: When a "clockwise" vortex (R) and a "counter-clockwise" vortex (L) are bound together, their interface is a region of **irreconcilable topological conflict**. The clockwise computational flow and the counter-clockwise computational flow collide head-on, forming a dynamically and extremely unstable "computational singularity."
+    2.  **Dynamic Fate**: This conflict interface cannot form a stable resonance; it must "rupture" in an extremely short time.
+    3.  **Catastrophic Disintegration**: The "rupture" of the interface triggers a chain reaction, causing the topological structures of both vortices to simultaneously and catastrophically **disintegrate**.
+    4.  **Energy Release**: As the topological forms of the two vortices are completely "smoothed out," the field in that region returns to the quiescent vacuum ground state. The entire computational resource (total mass-energy) that was locked in these two vortex forms is then completely released in the form of non-topological **"ripples of the field"**—that is, two or more **photons**.
+
+*   **H.5.3 Final Conclusion**: **Annihilation is not the disappearance of two "things," but the mutual cancellation of two contradictory "dynamic forms of the field," and the process of returning their form-energy to the universe as pure field vibrations.** This is the sole and inevitable topological-dynamic outcome for a combination of hetero-chiral vortices.
+
 
 #### **Appendix I: On the Computational Origin and Ratios of Mass Hierarchy**
 
 *   **I.1 Introduction: From Empirical Parameters to Necessary Constants**
-    This appendix aims to argue that the mass of particles and their ratios are no longer externally input empirical parameters, but are constants that emerge necessarily from the universe's underlying computational rules and geometric constraints, and are, in principle, calculable.
+    This appendix aims to argue that the mass of particles and their ratios are no longer externally input empirical parameters but are constants that emerge necessarily from the universe's underlying computational rules and geometric constraints, and are, in principle, calculable.
 *   **I.2 Core Principle: Mass as a Measure of Topological Complexity**
     1.  **Particle as Pattern:** Each particle is a stable computational pattern defined by its key K.
     2.  **Mass as Cost:** Rest mass m₀ is the base L_t consumption rate required to maintain the stability of pattern K.
@@ -380,3 +407,61 @@ This appendix aims to provide a conceptual, logically self-consistent computatio
     *   **Muon/Electron Mass Ratio:** m_μ / m_e = (β_C(2D) / β_C(1D)) * α. The experimental value is ≈207, requiring a "closed-string" form complexity ratio of β_C(2D) / β_C(1D) ≈ 33.
     *   **Bottom/Strange Quark Mass Ratio:** m_b / m_s = (β_O(3D) / β_O(2D)) * α. The experimental value is ≈44, requiring an "open-string" form complexity ratio from 2D to 3D of β_O(3D) / β_O(2D) ≈ 7.
     **Final Conclusion:** The mystery of mass, in this theory, ultimately reduces to an ultimate challenge concerning the "dimension and form of stable computational patterns."
+
+
+### **Appendix J: A Cosmic Evolution Model - A Self-Organizing Ripple Driven by Computational Effects**
+
+**J.1 Introduction: The Universe as the Unfolding of a Computational Event**
+
+This appendix aims to provide a logically self-consistent and mechanistically explicit evolution model for the entire process of the universe, from its creation to the formation of complex structures, based on the first principles of "Computational Realism." In this theoretical framework, the entire history of the universe is viewed as the unfolding of a single, intrinsic computational event—a "self-organizing ripple." Its core driving force is not external intervention but the **computational effect (gravity)** that necessarily accompanies the very existence of matter.
+
+**J.2 Phase 1: Creation - An Energy Ripple Sparked by Random Fluctuation**
+
+*   **J.2.1 Initial State: A Symmetric Computational Resource Field**
+    *   The starting point of the universe is a featureless **computational resource field** (the vacuum) that pervades all computational nodes, existing in its lowest energy ground state. This field is perfectly symmetric and isotropic, representing a quiescent "canvas" awaiting computation.
+
+*   **J.2.2 The Creation Event: An Intrinsic Random Fluctuation**
+    *   According to **Axiom 0 (Global Randomness Field)** and **Axiom 10 (Emergence of Randomness)**, at the universe's first computational step `τ₀`, the access of the computational rule `F` to the global random number `R(τ₀)` must have caused a purely random, uncaused quantum fluctuation.
+    *   This intrinsic, spontaneous fluctuation excited a small portion of the vacuum's potential energy into pure, non-topological dynamic energy. This initial energy pulse is the origin of the universe—a high-energy, high-density **"computational ripple,"** i.e., the Big Bang fireball.
+
+**J.3 Phase 2: Condensation - Chiral Symmetry Breaking and the Birth of Matter**
+
+*   **J.3.1 Expansion and Cooling of the Ripple**
+    *   The initial "ripple" expands outward in the computational field, which manifests macroscopically as the **expansion of the universe**. As its volume increases, the ripple's energy density begins to drop rapidly.
+
+*   **J.3.2 Condensation of Matter: From Ripple to Vortex**
+    *   When the energy density falls below a certain critical threshold, the pure, non-topological field energy begins to "condense," forming stable, localized **first-order topological vortices** of the field itself, i.e., **fundamental particles** (see Appendix H for details).
+
+*   **J.3.3 Chiral Selection: A "Historical Accident" of the Universe**
+    *   According to the dynamic proof in our appendix (the "epidemic model"), although the computational rules themselves can be chirally symmetric, the initial condensation process, due to randomness, must have produced a minute statistical deviation, causing the number of one type of chirality (e.g., "right-handed" vortices, i.e., matter) to slightly exceed the other ("left-handed" vortices, i.e., antimatter).
+    *   Because co-chiral vortex systems are dynamically more stable than hetero-chiral systems (the latter rapidly annihilate due to "topological conflict"), this tiny initial advantage was rapidly amplified via a **positive-feedback "winner-take-all" mechanism**.
+    *   Ultimately, the material composition of the universe was locked into **a single chirality**. The "matter-antimatter asymmetry" we speak of is not the result of an asymmetry in physical laws, but a **frozen historical imprint** determined jointly by "randomness + dynamics" in the early evolution of the universe.
+
+**J.4 Phase 3: Self-Organization - Structure Formation Driven by the Computational Effect (Gravity)**
+
+This is the core engine of cosmic evolution. The process of **"self-organization" is not magic; it is driven entirely by gravity—this most fundamental computational effect.**
+
+*   **J.4.1 The Birth of the Computational Effect (Gravity)**
+    *   According to **Theorem 1 (Emergence of Gravity)**, the existence of every matter vortex implies the continuous consumption of computational resources in its region.
+    *   This consumption must create a **gradient** in the surrounding computational resource field. This **field gradient is gravity**.
+    *   Therefore, gravity was born simultaneously with matter, as a necessary concomitant effect of matter's existence in the computational field.
+
+*   **J.4.2 The Self-Organizing Engine: Gravity's Positive Feedback Loop**
+    1.  **Initial Seeds**: Quantum fluctuations during the condensation phase must have led to slight **density non-uniformities** in the distribution of matter vortices in the early universe.
+    2.  **The Snowball Effect**:
+        *   A slightly denser region implies a higher total **rate of computational resource consumption**.
+        *   This leads to a deeper **L_t field gradient**, i.e., a stronger **gravitational potential well**.
+        *   This stronger gravity more effectively captures and attracts surrounding, independent matter vortices to cluster in that region.
+        *   The further aggregation of matter makes the region even denser, and the gravitational potential well deepens accordingly...
+    3.  **Emergence of Structure**: This unstoppable **positive feedback loop**, driven by gravity, is the fundamental reason for the formation of all macroscopic structures in the universe. It amplifies microscopic, random density fluctuations into macroscopic, ordered structures.
+
+*   **J.4.3 Multi-level Self-Organization**
+    *   **First-Order Self-Organization**: Gravity gathers primordial gas clouds (composed of first-order vortices) to form the **first generation of stars**.
+    *   **Second-Order Self-Organization**: Nuclear fusion inside stars "forges" first-order vortices into more complex **second-order vortices** (heavy element nuclei) via the strong nuclear force (a more localized computational stress).
+    *   **Higher-Order Self-Organization**: The heavy elements ejected by dying stars, during the formation of the next generation of planetary systems, provide the possibility for chemical bonding via the electromagnetic force (another computational stress), enabling the formation of molecules, life, and other **extremely complex higher-order self-organizing structures**.
+
+**J.5 Conclusion: The Universe is Computation, Evolution is Organization**
+
+In summary, the history of cosmic evolution under this theoretical framework is a clear, coherent picture driven by first principles:
+
+**The universe is a single computational resource field ripple, sparked by intrinsic randomness. The reason this ripple did not dissipate and return to quiescence is that the "computational effect" (gravity) that necessarily accompanies the "topological vortices" (matter) condensed within it provides a continuous and unstoppable "self-organizing engine" for the entire system. Everything we see—from galaxy clusters to human consciousness—is nothing more than the magnificent, ever-evolving, multi-layered structures that have emerged as this engine has driven the computation and organization of that initial ripple over the course of 13.8 billion years.**
