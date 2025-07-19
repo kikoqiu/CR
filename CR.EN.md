@@ -48,7 +48,7 @@ This chapter defines the dynamic management rules of the universe. These rules d
 
 #### **Theorem 0 (The Metric of Reality)**
 
-*   **Discourse:** As a direct and necessary mathematical corollary of Axiom 4, we prove that the only geometric relationship that can satisfy the "self-consistency of arbitrary partitioning" is the orthogonal Pythagorean relationship.
+*   **Discourse:** As a direct and necessary mathematical corollary of Axiom 4, we prove that the only geometric relationship that can satisfy the "self-consistency of arbitrary partitioning" is the orthogonal Pythagorean relationship, see Appendix C.
 *   **Conclusion:** Therefore, the metric describing the relationship between an entity's total complexity (total energy E), intrinsic complexity (m₀c²), and extrinsic complexity (pc) must be Euclidean, expressed mathematically as:
     > E² = (m₀c²)² + (pc)²
 *   **Significance:** This most central dynamical equation of physics is no longer an axiom in this theory but the first theorem to emerge from a philosophical principle of "self-consistency." It is not a physical stipulation about energy, but a mathematical necessity of how information and reality are self-consistently defined.
