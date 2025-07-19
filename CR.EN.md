@@ -107,7 +107,7 @@ This chapter describes the macroscopic physical laws that necessarily emerge fro
 *   **Discourse:** Dark energy is the direct macroscopic manifestation of the fundamental activity of the universe's "operating system" continuously generating "Time Shares" L_t (Axiom 5a). Its energy density corresponds to the L_t inventory level in the vacuum background, L_t_∞.
 
 #### **Theorem 4 (Origin of Light, Matter, Fields and the Universe)**
-*   **Discourse:** Light, matter, and fields are the effects of fundamental relationships on the resource field.
+*   **Discourse:** Light, matter, fields and the Universe are the effects of fundamental relationships on the resource field.
 *   **See Also:** Appendix H: The Computational Origin of Matter, Fields, and Light; Appendix I: On the Computational Origin and Ratios of Mass Hierarchy; Appendix J: A Cosmic Evolution Model - A Self-Organizing Ripple Driven by Computational Effects.
 
 #### **Theorem 5 (Emergence of Uncertainty and its Relation to Computational Complexity)**
